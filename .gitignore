@@ -1,1 +1,6 @@
 data/FullIJCNN2013.zip
+data/gtsdb.pbtxt
+data/input_img_vis_test/
+data/FullIJCNN2013/
+data/png_FullIJCNN2013/
+data/records/
